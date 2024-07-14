@@ -1,9 +1,9 @@
 # WebDev-Delta-Task3-Aditya-Agrawal-DTunes
 
-## Uses a MongoDB database
-### ReactJS for the front and ExpressJS for the back end
+### ReactJS for the frontend and ExpressJS for the backend
+### Uses MongoDB Atlas
 
-To run, you can install the necessary packages in both the frontend and backend directories.
+To run, install the necessary packages in both frontend and backend directories.
 <br/>
 npm i
 <br/>
