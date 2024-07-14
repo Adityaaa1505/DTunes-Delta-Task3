@@ -10,7 +10,7 @@ npm i
 <br/>
 <br/>
 <br/>
-<br/>
 To run the client in the frontend directory and server in the backend directory use
+<br/>
 <br/>
 npm run dev 
