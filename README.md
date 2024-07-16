@@ -1,4 +1,4 @@
-# WebDev-Delta-Task3-Aditya-Agrawal-DTunes
+# DTunes by Aditya Agrawal
 
 ### ReactJS for the frontend and ExpressJS for the backend
 ### Uses MongoDB Atlas
