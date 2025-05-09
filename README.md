@@ -9,6 +9,7 @@ DTunes is a slick music player with playlist controls and a dynamic user interfa
 - **Frontend**: React, Redux
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
+- **Authentication**: JWT
 - **State Management**: Redux
 
 ---
@@ -19,6 +20,7 @@ DTunes is a slick music player with playlist controls and a dynamic user interfa
 - 🎧 Play music with the ability to pause, skip, and adjust volume
 - 🎨 Sleek and modern UI with responsive design
 - 🔄 Full CRUD operations for playlists and songs
+- 🔒 Secure login and registration with password encryption
 
 ---
 
